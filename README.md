@@ -1,5 +1,4 @@
-# Robin Siegl Portfolio
-**Web and iOS Developer**
+# Web and iOS Developer
 
 Website: https://robin-siegl.vercel.app
 
