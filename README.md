@@ -35,8 +35,8 @@ My name is Robin and i'm from Austria. Welcome to my digital realm! I'm a passio
 - **Nutri Journal**  
   [*iOS AppStore*](https://apps.apple.com/app/nutri-journal/id6468662837)
 
-- **Fitny**  
-  [*Website*](https://fitny.netlify.app)
+- **Mental Journal Webpage**  
+  [*Website*](https://mentaljournal.app)
 
 - **Portfolio**  
   [*Website*](https://robin-siegl.vercel.app)
